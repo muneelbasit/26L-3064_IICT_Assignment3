@@ -9,5 +9,3 @@ It displays products, categories, prices, availability, ratings and a subscripti
 1. The tagline is green because inline CSS has the highest priority.
 2. Other paragraphs are dark red because internal CSS overrides external CSS.
 
-## Screenshot
-![webpage screenshot](MY mini store.png)
